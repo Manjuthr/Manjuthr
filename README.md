@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manjunath
+- 👋 Hi, I’m @Manjuthr
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning wpf, javascript, reactJS
 - 💞️ I’m looking to collaborate on NXOpen forums
